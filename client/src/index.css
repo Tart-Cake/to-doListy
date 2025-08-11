@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+@theme {
+  --color-obsidian: #08100C
+  --color-licorice: #161110
+}
